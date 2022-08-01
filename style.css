@@ -11,6 +11,16 @@ h1 {
 	margin-left: 20px;
 }
 
+body{
+	background-color: #E6B0AA;
+   font-family: 'Open Sans',serif;
+   font-size: 14px;
+}
+h1 {
+	color: #A9CCE3;
+	margin-left: 20px;
+}
+
 p{
 	color: #212121 ;
 	margin-left: 20px;
